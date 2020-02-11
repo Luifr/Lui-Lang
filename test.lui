@@ -1,0 +1,35 @@
+exists a = 10, b =12
+chance 1+2 * 3+3 -2-3- 1-1 > (1+2)*(3+3)-2-3-(1-1)
+	exists c
+nope
+	show "Else works"
+show c
+show (1+2)*(3+3)-2-3-(1-1)
+show  1+2 * 3+3 -2-3- 1-1
+//show    2*8+2*3
+//show 1+9*5-9/2+1*7
+
+
+//
+//a = a+1+1/4
+//
+//show b
+//show a
+//show a+b
+//
+//chance 2 > 3
+//	show "If works!"
+////another chance 2 > 1
+////	show "Else works"
+////nope
+////	show "Else works"
+//
+//exists str = "im a string"
+//
+//show "Lol, i can show strings"
+//show str
+//
+//b = b+a
+//
+//show b*2
+//show asd
